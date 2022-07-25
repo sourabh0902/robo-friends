@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(to left, rgba(238, 137, 227, 1.0) 0%, rgba(255, 215, 248, 1.0) 100%);
+}
+
